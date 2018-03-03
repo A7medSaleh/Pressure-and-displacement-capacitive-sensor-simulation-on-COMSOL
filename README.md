@@ -1,0 +1,1 @@
+# Pressure-and-displacement-capacitive-sensor-simulation-on-COMSOL
